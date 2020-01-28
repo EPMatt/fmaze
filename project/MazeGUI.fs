@@ -1,5 +1,6 @@
 ﻿(*
 *  FMaze - A .NET functional console game
+*  (https://github.com/EPMatt/fmaze)
 *
 *  (C) 2020
 *  Lorenzo Donatelli  (https://github.com/whitedemond)
